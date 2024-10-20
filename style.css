@@ -163,6 +163,7 @@ header h2 {
   border-radius: 20px;
   box-shadow: 0 2px 4px var(--shadow-color);
   transition: background-color 0.3s, transform 0.2s;
+  z-index: 0;
 }
 
 .song:hover {
