@@ -49,6 +49,7 @@ body {
   max-width: 480px;
   border-bottom: 1px solid #ebebeb;
   text-align: center;
+  z-index: 1;
 }
 
 header h4 {
